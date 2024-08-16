@@ -1,4 +1,4 @@
-# Product_Sales_Data
+# Product Sales Data Analiz
  Bu veri seti, bir işletmenin 2019'dan 2023'e kadar satış işlemlerine ilişkin bilgileri içermektedir. Her bir satırda, belirli bir ürüne ait satışın temel detayları yer almaktadır. Bu veri seti, ürün kimliklerinden satış tarihine kadar çeşitli bilgiler içermektedir.(Bu veri Chatgpt tarafından yapılmıştır.)
  Sütunlar:
 1) Urun kimligi:                                                       
